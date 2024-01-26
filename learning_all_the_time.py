@@ -25,6 +25,6 @@ def fprim(x):
     return 6*x
 
 
-x0 = 2
+x0 = 3
 zero1 = newtons_method(x0) 
 print(zero1)
