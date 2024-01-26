@@ -19,10 +19,10 @@ def newtons_method(x):
 
 
 def f(x):
-    return x**2
+    return 3*x**2
 
 def fprim(x):
-    return 2*x
+    return 6*x
 
 
 x0 = 2
