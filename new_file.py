@@ -14,7 +14,6 @@ def f(x):
 
 def f3(x):
     return exp(x)
-    return sin(x)
 
 def f2(x):
     return cos(x)
