@@ -10,7 +10,11 @@ from numpy import *
 
 
 def f(x):
+<<<<<<< HEAD
+    return 5*x**2
+=======
     return 2*x**2
+>>>>>>> main
 
 def f3(x):
     return exp(x)
