@@ -10,7 +10,7 @@ from numpy import *
 
 
 def f(x):
-    return -sin(x)
+    return sin(x)
 
 def f3(x):
     return exp(x)
