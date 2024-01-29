@@ -11,3 +11,6 @@ from numpy import *
 
 def f(x):
     return sin(x)
+
+def f2(x):
+    return cos(x)
