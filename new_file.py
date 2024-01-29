@@ -17,3 +17,6 @@ def f3(x):
 
 def f2(x):
     return cos(x)
+
+def f4(x):
+    return cosh(x)
