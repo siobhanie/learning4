@@ -10,4 +10,4 @@ from numpy import *
 
 # Comments!
 def f(x):
-    return sin(x)
+    return -sin(x)
