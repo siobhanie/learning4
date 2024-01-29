@@ -24,10 +24,10 @@ def newtons_method(x):
 
 
 def f(x):
-    return sin(x)
+    return -sin(x)
 
 def fprim(x):
-    return cos(x)
+    return -cos(x)
 
 
 x0 = 3
