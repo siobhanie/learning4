@@ -10,7 +10,7 @@ from numpy import *
 
 
 def f(x):
-    return x**2
+    return 2*x**2
 
 def f3(x):
     return exp(x)
