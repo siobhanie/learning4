@@ -20,3 +20,6 @@ def f2(x):
 
 def f4(x):
     return cosh(x)
+
+def f5(x):
+    return 5*x + x**2
