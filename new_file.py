@@ -22,4 +22,8 @@ def f4(x):
     return cosh(x)
 
 def f5(x):
+<<<<<<< HEAD
     return 5*x + x**2 + 2
+=======
+    return 5*x + x**2 + 1
+>>>>>>> main
